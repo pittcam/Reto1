@@ -1,6 +1,6 @@
 # Integrantes
-. Maikol Vergara
-. Juliana Castro
+1. Maikol Vergara
+2. Juliana Castro
 
 # Taller de Búsqueda de Datos Binaria y Secuencial
 
