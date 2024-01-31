@@ -1,3 +1,7 @@
+# Integrantes
+Maikol Vergara
+Juliana Castro
+
 # Taller de Búsqueda de Datos Binaria y Secuencial
 
 Este proyecto en Python se centra en la implementación y comparación de dos técnicas de búsqueda: la búsqueda binaria y la búsqueda secuencial. El objetivo principal es analizar y evaluar el rendimiento de ambas técnicas en la búsqueda de información en un censo ficticio de personas, con el propósito de determinar cuál de ellas es más eficiente.
