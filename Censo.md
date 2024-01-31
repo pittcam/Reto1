@@ -1,5 +1,10 @@
-# Censo
-> Describe tu proyecto en una o dos oraciones.
+# Simulación de Censo y menú de consulta
+> Este reto busca analizar el nivel de complejidad de dos algoritmos de búsqueda diferentes. Siendo implementados en un menú que puede buscar la información de un registro a través del id o nombre del censado. Los datos fueron generados aleatoriamente en un número determinado de registros. 
+
+## Características
+*La información generada del censado es id, nombre, edad e impuestos, donde el identificador único es el id. 
+*El menú consta de tres opciones: búsqueda por id, búsqueda por nombre y salir. La primera opción utiliza un algorimo de búsqueda binario, en cambio, la segundo usa el secuencial. 
+*Después de ser verificado el funcionamiento del menú, ambos algoritmos son analizados por medio de pandas para conocer cuál es más eficiente.
 
 ## Tabla de contenidos
 * [Introducción](#introduccion)
