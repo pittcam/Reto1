@@ -1,8 +1,4 @@
-# Reto1
-Primer taller Análisis de algoritmos
+# Reto 1
 
-Integrantes:
--Juliana Castro
--Maikol Vergara
-
+Este repositorio contiene el desarrollo del reto 1, que consiste en un análisis de dos tipos de búsquedas mediante la consulta de datos de un censado.
 
