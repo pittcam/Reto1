@@ -1,2 +1,8 @@
 # Reto1
-Primer taller análisis de algoritmos
+Primer taller Análisis de algoritmos
+
+Integrantes:
+-Juliana Castro
+-Maikol Vergara
+
+
